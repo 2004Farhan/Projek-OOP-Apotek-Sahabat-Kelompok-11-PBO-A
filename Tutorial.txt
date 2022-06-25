@@ -1,0 +1,4 @@
+Untuk mencoba program tersebut:
+1.Membuat database dengan nama "sahabat"
+2.Kemudian load data dengal ddl_pbo_apotek_sahabat(1) jalankan
+3.Lalu bisa di run visual studionya
